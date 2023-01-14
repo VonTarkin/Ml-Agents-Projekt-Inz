@@ -1,0 +1,413 @@
+﻿{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1673718031842833, "dur": 989567, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718031843887, "dur": 13128, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718031857225, "dur": 965151, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718032822391, "dur": 10010, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718033211604, "dur": 4585214, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718033211627, "dur": 30881, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718033242511, "dur": 4544267, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718037786781, "dur": 10036, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718055281491, "dur": 302078, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718055281705, "dur": 6239, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718055287946, "dur": 290983, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718055578932, "dur": 4636, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718093759973, "dur": 50025, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718093760001, "dur": 880, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718093760881, "dur": 39359, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718093800243, "dur": 9755, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718093925050, "dur": 852227, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718093925075, "dur": 20644, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718093945722, "dur": 821587, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718094767311, "dur": 9964, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718104231644, "dur": 1411812, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718104231679, "dur": 8141, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718104239823, "dur": 31670, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718104271604, "dur": 1175356, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718105446964, "dur": 183539, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718105630506, "dur": 12950, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718105643846, "dur": 36, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1673718105261084, "dur": 155699, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1673718105262131, "dur": 47291, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1673718105402293, "dur": 3747, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1673718105406044, "dur": 10733, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1673718105406622, "dur": 9454, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1673718105420641, "dur": 1093, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1673718105419967, "dur": 1786, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718105643934, "dur": 154, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1673718105463422, "dur":13051, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105476481, "dur":74, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105476608, "dur":433, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105477059, "dur":467, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105477528, "dur":123549, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105601079, "dur":310, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105601465, "dur":115, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105601698, "dur":1504, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1673718105477057, "dur":476, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673718105477533, "dur":2231, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673718105479764, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1673718105526360, "dur":4232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1673718105530688, "dur":6491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673718105537222, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":1, "ts":1673718105537380, "dur":2219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":1, "ts":1673718105539658, "dur":4784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level5.resS" }}
+,{ "pid":12345, "tid":1, "ts":1673718105544486, "dur":56576, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673718105477117, "dur":437, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673718105477554, "dur":2171, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673718105479726, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1673718105491809, "dur":1916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1673718105493813, "dur":3777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105497624, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105497622, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105497694, "dur":3418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105501158, "dur":2087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105503261, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105503260, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105503327, "dur":2912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105506262, "dur":439, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105506261, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105506734, "dur":3206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105510024, "dur":5351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105515474, "dur":4514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105520046, "dur":5308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105525396, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105525394, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105525472, "dur":5161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105530700, "dur":7190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673718105538064, "dur":9708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1673718105547799, "dur":53252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673718105477143, "dur":419, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673718105477562, "dur":2153, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673718105479716, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1673718105498854, "dur":2127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1673718105501052, "dur":2473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105503557, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105503556, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105503670, "dur":2794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105506492, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105506490, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105506652, "dur":2852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105509551, "dur":3960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105513557, "dur":4318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105517942, "dur":4309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105522328, "dur":8471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105530892, "dur":9545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673718105540492, "dur":4443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level4" }}
+,{ "pid":12345, "tid":3, "ts":1673718105544964, "dur":56092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673718105477544, "dur":2209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673718105479754, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1673718105481110, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1673718105482756, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1673718105482754, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1673718105482865, "dur":1465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1673718105484403, "dur":1054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis.exe" }}
+,{ "pid":12345, "tid":4, "ts":1673718105485712, "dur":6838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1673718105492654, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105494654, "dur":3848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105498588, "dur":3124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105501786, "dur":2877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105504721, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105504720, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105504845, "dur":3268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105508151, "dur":178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105508149, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105508336, "dur":5023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105513408, "dur":4093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105517572, "dur":3264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105520932, "dur":5048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105526068, "dur":8311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673718105534418, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1673718105534417, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1673718105535414, "dur":1941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1673718105537442, "dur":5528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1673718105543078, "dur":5379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1673718105548504, "dur":52590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673718105477102, "dur":446, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673718105477549, "dur":2197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673718105479756, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1673718105479747, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1673718105485191, "dur":955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1673718105486172, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105486171, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105486290, "dur":3536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105489870, "dur":916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105490861, "dur":1439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105492384, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105493890, "dur":4619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105498595, "dur":3505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Grpc.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105502135, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105502133, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105502266, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105505335, "dur":434, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105505334, "dur":436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105505777, "dur":5453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105511282, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105511280, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105511361, "dur":4884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105516414, "dur":5696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105522204, "dur":5897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105528141, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105528201, "dur":5205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105533475, "dur":7861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673718105541403, "dur":6586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1673718105548315, "dur":52792, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673718105477137, "dur":421, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673718105477559, "dur":2200, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673718105479773, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1673718105479760, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1673718105525531, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1673718105528069, "dur":4962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673718105533126, "dur":7569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673718105540804, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1673718105540866, "dur":4991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1673718105545882, "dur":55182, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673718105477177, "dur":411, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673718105477588, "dur":2119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673718105479711, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1673718105481040, "dur":1350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1673718105482476, "dur":23432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105505942, "dur":340, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105505940, "dur":344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105506288, "dur":101, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673718105506397, "dur":3701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105510148, "dur":7280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105517472, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105517458, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105517552, "dur":6982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105524593, "dur":6509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105531182, "dur":7154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673718105538380, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1673718105538608, "dur":4552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1673718105543202, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1673718105543270, "dur":4623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1673718105547934, "dur":53115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673718105477195, "dur":396, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673718105477591, "dur":2117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673718105479724, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1673718105479711, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1673718105500132, "dur":1748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1673718105501927, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105501925, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105502051, "dur":2748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105504837, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105504835, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105504970, "dur":3304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105508294, "dur":184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.ML-Agents.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105508293, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.ML-Agents.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105508488, "dur":4458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.ML-Agents.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105512980, "dur":239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105512979, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105513232, "dur":4649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105517957, "dur":4617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105522650, "dur":8111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105530848, "dur":13582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673718105544458, "dur":56623, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673718105477222, "dur":362, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673718105477585, "dur":2133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673718105479755, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1673718105479720, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1673718105484978, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1673718105485751, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105485750, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105485951, "dur":5122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105491159, "dur":1848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105493053, "dur":1152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105494449, "dur":5890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105500648, "dur":2197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105502876, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105502874, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105502988, "dur":3039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105506067, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105506066, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105506179, "dur":3162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105509396, "dur":4236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105513729, "dur":5807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105519601, "dur":5001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105524668, "dur":4611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105529371, "dur":7214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673718105536663, "dur":7774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":9, "ts":1673718105544481, "dur":56578, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673718105477252, "dur":335, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673718105477587, "dur":2124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673718105479733, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1673718105492203, "dur":1688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1673718105493982, "dur":4706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105498729, "dur":2750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105501536, "dur":2080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.IO.Abstractions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105503631, "dur":506, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105503630, "dur":508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105504145, "dur":3687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105507851, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105507850, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105507931, "dur":3720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105511695, "dur":3856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105515685, "dur":3600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105519360, "dur":5569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105524999, "dur":8026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105533127, "dur":5515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673718105538805, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1673718105541805, "dur":4821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1673718105546667, "dur":54407, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673718105477276, "dur":310, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673718105477586, "dur":2119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673718105479728, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1673718105479711, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1673718105491584, "dur":1121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1673718105492776, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105493806, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105494739, "dur":3874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105498662, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Interactive.Async.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105500634, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105502186, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105502185, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105502251, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105504597, "dur":510, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105504596, "dur":513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105505119, "dur":3565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105508725, "dur":3608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105512380, "dur":3578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105516023, "dur":3025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105519114, "dur":4757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105523938, "dur":8290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105532297, "dur":6047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673718105538402, "dur":4215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1673718105542687, "dur":3558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1673718105546270, "dur":54782, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673718105477301, "dur":279, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673718105477581, "dur":2133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673718105479715, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1673718105525897, "dur":2209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1673718105528157, "dur":5834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673718105534049, "dur":6949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673718105541059, "dur":4123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level3" }}
+,{ "pid":12345, "tid":12, "ts":1673718105545205, "dur":55849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673718105477344, "dur":253, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673718105477597, "dur":2174, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673718105479773, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1673718105529582, "dur":3958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1673718105533605, "dur":7804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673718105541467, "dur":4848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1673718105546341, "dur":54734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673718105477359, "dur":237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673718105477596, "dur":2181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673718105479786, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105479777, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105499415, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105501929, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105501928, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105502098, "dur":2348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105504493, "dur":258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.ML-Agents.CommunicatorObjects.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105504492, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105504762, "dur":3452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105508260, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105508258, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105508379, "dur":3366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105511793, "dur":4475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105516362, "dur":3238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105519663, "dur":4444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105524169, "dur":4348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105528611, "dur":7749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673718105536473, "dur":2376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1673718105538991, "dur":5411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1673718105544442, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1673718105544441, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1673718105544583, "dur":3657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1673718105548263, "dur":52836, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673718105477383, "dur":194, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673718105477577, "dur":2136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673718105479714, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1673718105528433, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1673718105530752, "dur":9291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673718105540224, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level4.resS" }}
+,{ "pid":12345, "tid":15, "ts":1673718105540319, "dur":7846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level4.resS" }}
+,{ "pid":12345, "tid":15, "ts":1673718105548187, "dur":52916, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673718105477418, "dur":155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673718105477574, "dur":2189, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673718105479774, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1673718105479764, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1673718105526985, "dur":2578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1673718105529638, "dur":5183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673718105535303, "dur":2078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":16, "ts":1673718105537447, "dur":63530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1673718105477465, "dur":110, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1673718105477576, "dur":2184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1673718105479760, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1673718105492559, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1673718105494002, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105494001, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105494112, "dur":4537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105498727, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.IO.Abstractions.TestingHelpers.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105500711, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105500709, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105500819, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105502743, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105502741, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105502865, "dur":2584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105505491, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105505489, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105505628, "dur":3021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105508679, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105508678, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105508825, "dur":6301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105515157, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105515155, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105515226, "dur":5116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105520406, "dur":5762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105526236, "dur":4794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105531093, "dur":5360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1673718105536511, "dur":2692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":17, "ts":1673718105539258, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1673718105539320, "dur":5446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":17, "ts":1673718105544793, "dur":56280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1673718105477491, "dur":79, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1673718105477571, "dur":2193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1673718105479765, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1673718105527599, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1673718105529656, "dur":4678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1673718105534366, "dur":19159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\Data\\Plugins\\x86_64\\lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":18, "ts":1673718105534364, "dur":19164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":18, "ts":1673718105553726, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":18, "ts":1673718105554902, "dur":46178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1673718105477529, "dur":2174, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1673718105479714, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1673718105480275, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/app.info" }}
+,{ "pid":12345, "tid":19, "ts":1673718105482359, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105482357, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105482605, "dur":6460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105489161, "dur":4577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105493814, "dur":1431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105495344, "dur":5428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105500812, "dur":2476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Google.Protobuf.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105503328, "dur":290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105503326, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105503628, "dur":3481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105507135, "dur":543, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105507133, "dur":547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105507694, "dur":3016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105510753, "dur":3415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105514199, "dur":297, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105514197, "dur":301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105514506, "dur":4152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105518766, "dur":4734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105523568, "dur":4814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105528441, "dur":5906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105535454, "dur":4317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Plugins/x86_64/grpc_csharp_ext.x64.dll" }}
+,{ "pid":12345, "tid":19, "ts":1673718105539874, "dur":4870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/level5" }}
+,{ "pid":12345, "tid":19, "ts":1673718105544773, "dur":56302, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1673718105477082, "dur":462, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1673718105477545, "dur":2203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1673718105479749, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":20, "ts":1673718105529137, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":20, "ts":1673718105532265, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1673718105532263, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1673718105532341, "dur":7091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1673718105539511, "dur":7017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jakla/Desktop/Thesis/Ml-Agents-Thesis_Data/resources.assets" }}
+,{ "pid":12345, "tid":20, "ts":1673718105546554, "dur":54493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673718105604392, "dur":1079, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1673718105644122, "dur": 75188, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1673718105643832, "dur": 75513, "ph": "X", "name": "Write chrome-trace events", "args": {} },

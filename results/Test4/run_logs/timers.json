@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1665441977",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\venv\\Scripts\\mlagents-learn config/moveToGoal.yaml --run-id=Test4",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cpu",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1665441982"
+    },
+    "total": 5.1800098,
+    "count": 1,
+    "self": 0.004137799999999636,
+    "children": {
+        "run_training.setup": {
+            "total": 0.048196600000000034,
+            "count": 1,
+            "self": 0.048196600000000034
+        },
+        "TrainerController.start_learning": {
+            "total": 5.1276754,
+            "count": 1,
+            "self": 8.509999999972706e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 5.1275788,
+                    "count": 1,
+                    "self": 5.1275788
+                },
+                "TrainerController._save_models": {
+                    "total": 1.1500000000275179e-05,
+                    "count": 1,
+                    "self": 1.1500000000275179e-05
+                }
+            }
+        }
+    }
+}

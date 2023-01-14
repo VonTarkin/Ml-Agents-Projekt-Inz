@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1665531350",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\jakla\\Documents\\Github\\Ml-Agents-Thesis\\venv\\Scripts\\mlagents-learn --run-id=Area4 --resume",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cpu",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1665531357"
+    },
+    "total": 7.3749641,
+    "count": 1,
+    "self": 0.004440400000000011,
+    "children": {
+        "run_training.setup": {
+            "total": 0.0497398,
+            "count": 1,
+            "self": 0.0497398
+        },
+        "TrainerController.start_learning": {
+            "total": 7.3207838999999995,
+            "count": 1,
+            "self": 7.669999999926347e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 7.2553043,
+                    "count": 1,
+                    "self": 7.2553043
+                },
+                "trainer_threads": {
+                    "total": 5.000000005139782e-07,
+                    "count": 1,
+                    "self": 5.000000005139782e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 0.06540239999999997,
+                    "count": 1,
+                    "self": 0.017395999999999745,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.04800640000000023,
+                            "count": 1,
+                            "self": 0.04800640000000023
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
